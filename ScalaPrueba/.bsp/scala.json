@@ -1,0 +1,27 @@
+{
+  "name": "scala",
+  "argv": [
+    "/root/.sdkman/candidates/scala/3.6.3/libexec/scala-cli",
+    "--cli-default-scala-version",
+    "3.6.3",
+    "--repository",
+    "file:///root/.sdkman/candidates/scala/current/maven2",
+    "--prog-name",
+    "scala",
+    "--skip-cli-updates",
+    "bsp",
+    "--json-options",
+    "/mnt/c/Users/guado/OneDrive/Documentos/Prueba/ScalaPrueba/.scala-build/ide-options-v2.json",
+    "--json-launcher-options",
+    "/mnt/c/Users/guado/OneDrive/Documentos/Prueba/ScalaPrueba/.scala-build/ide-launcher-options.json",
+    "--envs-file",
+    "/mnt/c/Users/guado/OneDrive/Documentos/Prueba/ScalaPrueba/.scala-build/ide-envs.json",
+    "/mnt/c/Users/guado/OneDrive/Documentos/Prueba/ScalaPrueba/MissingNumber.scala"
+  ],
+  "version": "1.5.4",
+  "bspVersion": "2.1.1",
+  "languages": [
+    "scala",
+    "java"
+  ]
+}
